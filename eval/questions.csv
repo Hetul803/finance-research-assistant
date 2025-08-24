@@ -1,0 +1,5 @@
+# Created by Hetul Patel for evaluation purposes (Fall 2025). Not investment advice.
+question,expected_answer_hint,doc_hint
+"What are the three growth vectors mentioned?","subscription expansions; new enterprise customers; AI-enabled tooling","sample_investor_notes.txt"
+"Did leverage increase or decrease in FY2024?","decreased","sample_investor_notes.txt"
+"List one risk mentioned and why it matters.","macroeconomic demand softness; impacts new logo growth","sample_investor_notes.txt"
