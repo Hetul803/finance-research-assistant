@@ -3,7 +3,12 @@
 A small, class-ready chatbot using Phi-3 Mini.  
 Flip a config to enable a **finance** mode with retrieval over short excerpts from SEC filings or investor letters.  
 Designed to be reusable for courses, portfolio projects, and recruiter demos.
-
+---
+## Design Choices
+- Built on Phi-3 Mini to keep it light enough for Colab demos.
+- Started with my own investor letter summaries for safe testing.
+- Config files make it easy to switch modes for future class projects.
+- Plan to expand RAG with real filings and evaluation metrics.
 ---
 
 ## Why This Exists
