@@ -1,0 +1,8 @@
+mode: "class"
+use_rag: false
+
+decoding:
+  do_sample: false
+  max_new_tokens: 200
+
+notes: "Default class chatbot behavior (no retrieval)."
