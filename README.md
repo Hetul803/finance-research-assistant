@@ -35,6 +35,15 @@ data/seed/ # Seed texts for finance retrieval
 eval/ # Evaluation questions/results
 docs/ # Diagrams, screenshots
 
+## Design Choices (by Hetul Patel)
+- **Phi-3 Mini on Colab:** Small instruct model that runs reliably in class with GPU, fast enough for demos.
+- **Two modes via config:** `class.yaml` (no retrieval) and `finance.yaml` (RAG toggle) so I can reuse this project across courses.
+- **Seed texts I authored:** Starting with my own summaries avoids copyright issues and keeps the demo lightweight.
+- **Citations-first UX:** Finance mode will always show a source (file name + chunk) to build trust.
+- **Simple evaluation set:** I maintain `eval/questions.csv` with my own questions to measure correctness and latency.
+- **Portfolio-ready structure:** Clean folders, README, and a future public demo link so recruiters can quickly evaluate the project.
+
+
 
 ---
 
