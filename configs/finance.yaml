@@ -1,0 +1,12 @@
+mode: "finance"
+use_rag: true
+
+decoding:
+  do_sample: false
+  max_new_tokens: 200
+
+rag:
+  top_k: 4
+  source_dir: "data/seed"
+
+notes: "Finance mode: enable retrieval over seed texts and show citations."
