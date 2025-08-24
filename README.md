@@ -46,7 +46,7 @@ Educational demo only. **Not investment advice.**
 
 ## Contact
 Hetul Patel  
-📧 hetul.patel.career.com  
+📧 hetul.patel.career@outlook.com  
 🔗 www.linkedin.com/in/hetul-patel-- 
 
 ---
